@@ -1,2 +1,2 @@
 # berlinClockKata_Kotlin
-Exervice Berlin Clock Kata (with Kotlin)
+Exercice Berlin Clock Kata (with Kotlin)
