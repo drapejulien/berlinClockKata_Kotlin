@@ -1,7 +1,7 @@
 # Berlin Clock Kata en Kotlin
-Exercice Berlin Clock Kata (with Kotlin)
-1er projet en Kotlin pour découverte du langage
-Projet avec Maven. Pour un projet avec gradle cf autre repository
+Exercice Berlin Clock Kata (with Kotlin). Compilé avec Maven
+<br>1er projet en Kotlin pour découverte du langage
+<br>Pour un projet avec gradle et exploitant spécificité du langage Kotlin : https://github.com/drapejulien/berlinClockKata_Kotlin_gradle
 
 ## Compilation 
 Tache maven : mvn clean install
